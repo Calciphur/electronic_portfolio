@@ -1,0 +1,56 @@
+body, h1, h2, h3, h4, h5 {
+    font-family: "Raleway", sans-serif;
+}
+
+#gridContainer {
+    max-width: 1400px;
+}
+
+#headerObject {
+    max-width: 1500px;
+}
+
+#jumbotron-text {
+    color: white;
+}
+
+#about-me-container .container-name h3 {
+    color: white;
+}
+
+#about-me-container img {
+    width: 25%;
+}
+
+#documents-container .container-name h3 {
+    color: white;
+}
+
+#project-list a {
+    text-decoration: none;
+}
+
+#project-list li img {
+    width: 50px;
+}
+
+#contact-icons li {
+    width: 5%;
+}
+
+#contact-icons .unused {
+    width: 42.5%;
+}
+
+#contact-icons li a:hover {
+    background-color: #616161;
+}
+
+.w3css-credit {
+    font-size: 0.7em;
+}
+
+
+
+
+
