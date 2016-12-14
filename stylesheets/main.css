@@ -34,18 +34,6 @@ body, h1, h2, h3, h4, h5 {
     width: 50px;
 }
 
-#contact-icons li {
-    width: 5%;
-}
-
-#contact-icons .unused {
-    width: 42.5%;
-}
-
-#contact-icons li a:hover {
-    background-color: #616161;
-}
-
 .w3css-credit {
     font-size: 0.7em;
 }
